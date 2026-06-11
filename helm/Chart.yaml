@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-branch-location-management
+description: "BIAN Service Domain: Branch Location Management (Operate pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "Branch Operation"
+  bian/control-record: "Branch Operation Operating Session"
